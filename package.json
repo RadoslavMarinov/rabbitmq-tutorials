@@ -11,5 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "amqplib": "^0.8.0"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.0"
   }
 }
